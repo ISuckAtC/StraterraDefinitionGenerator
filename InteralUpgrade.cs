@@ -62,10 +62,10 @@ public partial class Program
                 case UpgradeType.STORAGE:
                 {
                     StorageUpgrade storageUpgrade = (StorageUpgrade)upgrade;
-                    storageUpgrade.foodMax = values[i][9] == "." ? 0 : int.Parse(values[i][9]);
-                    storageUpgrade.woodMax = values[i][10] == "." ? 0 : int.Parse(values[i][10]);
-                    storageUpgrade.metalMax = values[i][11] == "." ? 0 : int.Parse(values[i][11]);
-                    storageUpgrade.orderMax = values[i][12] == "." ? 0 : int.Parse(values[i][12]);
+                    storageUpgrade.foodMax = values[i][9] == "." ? -1 : int.Parse(values[i][9]);
+                    storageUpgrade.woodMax = values[i][10] == "." ? -1 : int.Parse(values[i][10]);
+                    storageUpgrade.metalMax = values[i][11] == "." ? -1 : int.Parse(values[i][11]);
+                    storageUpgrade.orderMax = values[i][12] == "." ? -1 : int.Parse(values[i][12]);
 
                     upgrade = storageUpgrade;
                     break;
