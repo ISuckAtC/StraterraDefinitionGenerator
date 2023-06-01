@@ -1,0 +1,15 @@
+D:\Programming\C#\StraterraDefinitionGenerator\bin\Debug\net6.0\StraterraDefinitions.exe
+D:\Programming\C#\StraterraDefinitionGenerator\bin\Debug\net6.0\StraterraDefinitions.deps.json
+D:\Programming\C#\StraterraDefinitionGenerator\bin\Debug\net6.0\StraterraDefinitions.runtimeconfig.json
+D:\Programming\C#\StraterraDefinitionGenerator\bin\Debug\net6.0\StraterraDefinitions.dll
+D:\Programming\C#\StraterraDefinitionGenerator\bin\Debug\net6.0\StraterraDefinitions.pdb
+D:\Programming\C#\StraterraDefinitionGenerator\obj\Debug\net6.0\StraterraDefinitions.csproj.AssemblyReference.cache
+D:\Programming\C#\StraterraDefinitionGenerator\obj\Debug\net6.0\StraterraDefinitions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\StraterraDefinitionGenerator\obj\Debug\net6.0\StraterraDefinitions.AssemblyInfoInputs.cache
+D:\Programming\C#\StraterraDefinitionGenerator\obj\Debug\net6.0\StraterraDefinitions.AssemblyInfo.cs
+D:\Programming\C#\StraterraDefinitionGenerator\obj\Debug\net6.0\StraterraDefinitions.csproj.CoreCompileInputs.cache
+D:\Programming\C#\StraterraDefinitionGenerator\obj\Debug\net6.0\StraterraDefinitions.dll
+D:\Programming\C#\StraterraDefinitionGenerator\obj\Debug\net6.0\refint\StraterraDefinitions.dll
+D:\Programming\C#\StraterraDefinitionGenerator\obj\Debug\net6.0\StraterraDefinitions.pdb
+D:\Programming\C#\StraterraDefinitionGenerator\obj\Debug\net6.0\StraterraDefinitions.genruntimeconfig.cache
+D:\Programming\C#\StraterraDefinitionGenerator\obj\Debug\net6.0\ref\StraterraDefinitions.dll

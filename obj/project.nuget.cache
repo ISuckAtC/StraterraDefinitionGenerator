@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MAqdLrmyrHdoLW0mNx6vCDHFOTSYng/UUobf7Aela8+X7UCF29Iipz1fiNJC/G13viNaWkipQJV5ilytGQg6rQ==",
+  "dgSpecHash": "Bl4/vR/NWsRkTFiwNHCI/DL4m7gMTeI/5AaXxqr/p+ut7Ni5lqOHj5KcFc5YWy0Uh/DBnpZ65bydNrNwj5AJsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\Desktop\\StraterraDefinitions\\StraterraDefinitions.csproj",
+  "projectFilePath": "D:\\Programming\\C#\\StraterraDefinitionGenerator\\StraterraDefinitions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
