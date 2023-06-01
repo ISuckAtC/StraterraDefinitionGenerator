@@ -32,6 +32,18 @@ values = sheet.values;
 
 WriteInternalUpgrades(values);
 
+response = await client.GetAsync(baseAddress + "TownBuildings!A3:K33?key=" + apiKey);
+
+sResponse = await response.Content.ReadAsStringAsync();
+
+sheet = System.Text.Json.JsonSerializer.Deserialize<SheetResponse>(sResponse);
+
+Console.WriteLine(sheet.range + " | " + sheet.majorDimension + " | " + sheet.values[2][2] + " | " + sheet.values.Length + " | " + sheet.values[0].Length);
+
+values = sheet.values;
+
+WriteTownBuildings(values);
+
 [System.Serializable]
 public struct SheetResponse
 {

@@ -69,13 +69,15 @@ public partial class Program
             csBuilder.Append(varName + ".id = " + mapBuilding.id + ";\n");
             csBuilder.Append(varName + ".type = TownBuildingType." + mapBuilding.type.ToString() + ";\n");
             csBuilder.Append(varName + ".buildingTime = " + mapBuilding.buildingTime + ";\n");
-            csBuilder.Append(varName + ".name = " + mapBuilding.name + ";\n");
+            csBuilder.Append(varName + ".name = \"" + mapBuilding.name + "\";\n");
             csBuilder.Append(varName + ".health = " + mapBuilding.health + ";\n");
             csBuilder.Append(varName + ".foodCost = " + mapBuilding.foodCost + ";\n");
             csBuilder.Append(varName + ".woodCost = " + mapBuilding.woodCost + ";\n");
             csBuilder.Append(varName + ".metalCost = " + mapBuilding.metalCost + ";\n");
             csBuilder.Append(varName + ".orderCost = " + mapBuilding.orderCost + ";\n");
             csBuilder.Append(varName + ".baseProduction = " + mapBuilding.baseProduction + ";\n");
+            csBuilder.Append(varName + ".level = " + mapBuilding.level + ";\n");
+            csBuilder.Append(varName + ".maxLevel = " + mapBuilding.maxLevel + ";\n");
 
             csBuilder.Append("mapBuildings[" + mapBuilding.id + "] = " + varName + ";\n\n");
         }
@@ -92,16 +94,18 @@ public partial class Program
             string varName = mapBuilding.type.ToString().ToLower() + mapBuilding.level.ToString();
             csBuilder.Append("MapBuilding " + varName + "{};\n");
 
-            csBuilder.Append(varName + "id = " + mapBuilding.id + ";\n");
-            csBuilder.Append(varName + "type = " + mapBuilding.type.ToString() + ";\n");
-            csBuilder.Append(varName + "buildingTime = " + mapBuilding.buildingTime + ";\n");
-            csBuilder.Append(varName + "name = " + mapBuilding.name + ";\n");
-            csBuilder.Append(varName + "health = " + mapBuilding.health + ";\n");
-            csBuilder.Append(varName + "foodCost = " + mapBuilding.foodCost + ";\n");
-            csBuilder.Append(varName + "woodCost = " + mapBuilding.woodCost + ";\n");
-            csBuilder.Append(varName + "metalCost = " + mapBuilding.metalCost + ";\n");
-            csBuilder.Append(varName + "orderCost = " + mapBuilding.orderCost + ";\n");
-            csBuilder.Append(varName + "baseProduction = " + mapBuilding.baseProduction + ";\n");
+            csBuilder.Append(varName + ".id = " + mapBuilding.id + ";\n");
+            csBuilder.Append(varName + ".type = " + mapBuilding.type.ToString() + ";\n");
+            csBuilder.Append(varName + ".buildingTime = " + mapBuilding.buildingTime + ";\n");
+            csBuilder.Append(varName + ".name = \"" + mapBuilding.name + "\";\n");
+            csBuilder.Append(varName + ".health = " + mapBuilding.health + ";\n");
+            csBuilder.Append(varName + ".foodCost = " + mapBuilding.foodCost + ";\n");
+            csBuilder.Append(varName + ".woodCost = " + mapBuilding.woodCost + ";\n");
+            csBuilder.Append(varName + ".metalCost = " + mapBuilding.metalCost + ";\n");
+            csBuilder.Append(varName + ".orderCost = " + mapBuilding.orderCost + ";\n");
+            csBuilder.Append(varName + ".baseProduction = " + mapBuilding.baseProduction + ";\n");
+            csBuilder.Append(varName + ".level = " + mapBuilding.level + ";\n");
+            csBuilder.Append(varName + ".maxLevel = " + mapBuilding.maxLevel + ";\n");
 
             csBuilder.Append("mapBuildings[" + mapBuilding.id + "] = " + varName + ";\n\n");
         }
