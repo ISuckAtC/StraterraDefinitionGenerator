@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\StraterraDefinitions\bin\Debug\net7.0\StraterraDefinitions.exe
+C:\Users\Student\Desktop\StraterraDefinitions\bin\Debug\net7.0\StraterraDefinitions.deps.json
+C:\Users\Student\Desktop\StraterraDefinitions\bin\Debug\net7.0\StraterraDefinitions.runtimeconfig.json
+C:\Users\Student\Desktop\StraterraDefinitions\bin\Debug\net7.0\StraterraDefinitions.dll
+C:\Users\Student\Desktop\StraterraDefinitions\bin\Debug\net7.0\StraterraDefinitions.pdb
+C:\Users\Student\Desktop\StraterraDefinitions\obj\Debug\net7.0\StraterraDefinitions.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\StraterraDefinitions\obj\Debug\net7.0\StraterraDefinitions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\StraterraDefinitions\obj\Debug\net7.0\StraterraDefinitions.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\StraterraDefinitions\obj\Debug\net7.0\StraterraDefinitions.AssemblyInfo.cs
+C:\Users\Student\Desktop\StraterraDefinitions\obj\Debug\net7.0\StraterraDefinitions.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\StraterraDefinitions\obj\Debug\net7.0\StraterraDefinitions.dll
+C:\Users\Student\Desktop\StraterraDefinitions\obj\Debug\net7.0\refint\StraterraDefinitions.dll
+C:\Users\Student\Desktop\StraterraDefinitions\obj\Debug\net7.0\StraterraDefinitions.pdb
+C:\Users\Student\Desktop\StraterraDefinitions\obj\Debug\net7.0\StraterraDefinitions.genruntimeconfig.cache
+C:\Users\Student\Desktop\StraterraDefinitions\obj\Debug\net7.0\ref\StraterraDefinitions.dll
