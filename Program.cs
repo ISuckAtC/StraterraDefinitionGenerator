@@ -1,9 +1,9 @@
 ﻿global using System;
 global using System.Net.Http;
 
-string apiKey = "AIzaSyBWUsAqcWvcdNyi-WnGCaj_WswpF832exc";
+string apiKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
-string baseAddress = "https://sheets.googleapis.com/v4/spreadsheets/16BbMSgm6UyzQhtFXTUMxHHDnvdjGvdfq0CaI7_lNWi4/values/";
+string baseAddress = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
 
 HttpClient client = new HttpClient();
